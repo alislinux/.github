@@ -1,6 +1,8 @@
-# Radio New Japan Alis LGX
+# Alis Linux/GNU/X
 -----
-Alis LGX is a Linux/GNU/X distribution, based on CentOS Stream.
+AN NJB CLUB
+
+Alis LGX (formerly "Univalent Versatile Environment") is a Linux/GNU/X distribution, based on Arch Linux.
 
 # Notices for pull requests and bug reports
 
