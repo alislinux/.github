@@ -2,7 +2,7 @@
 -----
 AN NJB CLUB
 
-Alis LGX (formerly "Univalent Versatile Environment") is a Linux/GNU/X distribution, based on Arch Linux.
+Alis Linux/GNU/X (/ˈɑlis ˈlɪnʌks ɡˈnuː ənd ˈeks/, formerly "Univalent Versatile Environment") is a Linux/GNU/Xwayland operating system, based on Arch Linux.
 
 # Notices for pull requests and bug reports
 
