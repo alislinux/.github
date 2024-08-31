@@ -4,6 +4,9 @@ A NAKAMURA MUSICAL INDUSTRIES DOJIN CLUB
 
 Alis Linux/GNU/X (/ˈɑlis ˈlɪnʌks ɡˈnuː ənd ˈeks/, formerly "Univalent Versatile Environment") is a Linux/GNU/X-Wayland operating system, based on Arch Linux.
 
+# Alis Linux/GNU/X Indefinite Development Suspension
+https://alislinux.github.io/en/index.html
+
 # Notices for pull requests and bug reports
 
 When sending pull requests and bug reports to the NJB repository, please follow the instructions below.
